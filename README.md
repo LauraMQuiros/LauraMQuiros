@@ -1,5 +1,10 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3882394" style='border:none;'></iframe>
-
+ <a target="_blank" href="https://tryhackme.com/p/Ithaca"><img height="" title="TryHackMe Profile" alt="TryHackMe Ithaca Profile" src="https://tryhackme-badges.s3.amazonaws.com/Ithaca.png"></a>
+<!--<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3882394" style='border:none;'></iframe>
+</div>
+<div align="center">
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/linux.svg"        width="100"></a>
+</div>
+<br> -->
 
 <!--
 **LauraMQuiros/LauraMQuiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
