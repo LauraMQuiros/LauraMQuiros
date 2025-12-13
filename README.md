@@ -1,1 +1,2 @@
-<a href="https://tryhackme.com/p/Ithaca" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Ithaca.png" alt="TryHackMe"/>
+Heyo!
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauramquiros/)
