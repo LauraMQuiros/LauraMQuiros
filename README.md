@@ -3,8 +3,8 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://laura-log.vercel.app/)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauramquiros&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramquiros&layout=compact&theme=buefy&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauramquiros&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramquiros&layout=compact&theme=buefy&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div align="center">
