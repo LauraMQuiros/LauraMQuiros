@@ -10,7 +10,7 @@
        じしˍ,)ノ
 ```
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauramquiros/)
-[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://laura-log.vercel.app/)
+[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://substack.com/@keinea/posts)
 </td>
 <td valign="top">
 
